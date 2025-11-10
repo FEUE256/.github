@@ -32,7 +32,6 @@ Welcome to the official collection of **FÈUE256 repositories**. This README pro
 - [PON](https://github.com/FEUE256/PON)
 - [uefi-dev](https://github.com/FEUE256/uefi-dev)
 - [UEFI-GPT-image-creator](https://github.com/FEUE256/UEFI-GPT-image-creator)
-- [test](https://github.com/FEUE256/test)
 - [desktop](https://github.com/FEUE256/desktop)
 
 ---
