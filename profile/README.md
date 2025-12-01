@@ -33,6 +33,8 @@ Welcome to the official collection of **FÈUE256 repositories**. This README pro
 - [uefi-dev](https://github.com/FEUE256/uefi-dev)
 - [UEFI-GPT-image-creator](https://github.com/FEUE256/UEFI-GPT-image-creator)
 - [desktop](https://github.com/FEUE256/desktop)
+- [db](https://github.com/FEUE256/db)
+- [judo](https://github.com/FEUE256/judo)
 
 ---
 
