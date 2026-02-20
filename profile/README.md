@@ -13,4 +13,4 @@ You have officially come to the official FÈUE repo for FÈUE's projects.
 ## License
 
 Most projects are licensed individually. Check each repository for its specific license.  
-General organization license: **MIT License**.
+General organization license: **MIT License** or **FÈUE License V1**.
